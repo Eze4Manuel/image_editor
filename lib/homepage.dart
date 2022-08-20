@@ -1,12 +1,6 @@
-import 'dart:convert';
-import 'dart:io';
-import 'dart:typed_data';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:photo_view/photo_view_gallery.dart';
-import 'package:image_editor/image_editor.dart';
-import 'package:image_size_getter/image_size_getter.dart';
 
 import 'edit_screen.dart';
 
